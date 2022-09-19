@@ -3,8 +3,8 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
-print("First python program!")
+print('Hello World!')   #anything we want to print can be inside single quotes...(this is a single line comment)
+print("First python program!")   #.. or double quotes
 ```
 
 # Advanced usage
